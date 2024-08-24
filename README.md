@@ -1,3 +1,8 @@
+## .˚ :camera: ᵎ┊͙ Olá! Meu nome é Bianca Volpato 
+
+
+
+
 # 💫 Sobre Mim:
 
   <img align="right" width="180" src="https://cdn.discordapp.com/attachments/1169305982602584137/1276767945283993600/best-gif.gif?ex=66caba4f&is=66c968cf&hm=88de6a721e7f62361ee54da2717d0f5b35759062714145a6ba76254a90447095&">
