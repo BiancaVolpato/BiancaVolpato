@@ -5,7 +5,7 @@
 
 # 💫 Sobre Mim:
 
-  <img align="right" width="180" src="https://cdn.discordapp.com/attachments/1169305982602584137/1276767945283993600/best-gif.gif?ex=66caba4f&is=66c968cf&hm=88de6a721e7f62361ee54da2717d0f5b35759062714145a6ba76254a90447095&">
+  <img align="right" width="200" src="https://cdn.discordapp.com/attachments/1169305982602584137/1276767945283993600/best-gif.gif?ex=66ceaecf&is=66cd5d4f&hm=6751764ea28448f71686248be864187ccb90aa7992eaab74478653bd26721e21&">
   
 ☆  Desenvolvedora front-end 
 
